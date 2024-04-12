@@ -44,6 +44,8 @@ pos = nx.get_node_attributes(G, 'pos')
 nx.draw(G, pos, with_labels=True, node_size=50, font_size=8)
 plt.show()
 
+#ACTIVIDAD 3
+
 import pandas as pd
 
 # Crear un DataFrame con datos de ejemplo
@@ -81,7 +83,7 @@ model.fit(X_train, y_train)
 
 
 
-#ultima actividad 
+#ACTIVIDAD 4
 
 import pandas as pd
 
